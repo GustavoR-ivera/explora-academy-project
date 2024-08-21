@@ -1,0 +1,40 @@
+geometry, 1, La medida de una superficie se denomina, Área, Volumen, Extension, Forma, Área
+geometry, 2, A la línea formada por una recta y una curva se denomina, Quebrada, Ángulo, Mixta, Lado, Mixta
+geometry, 1, Cuánto suman los ángulos de cualquier triángulo, 45°, 90°, 360°, 180°, 180°
+science, 1, Cuál es el planeta más alejado del Sol, Tierra, Marte, Plutón, Neptuno, Neptuno
+science, 1, Cuál es el mineral más duro del planeta, Hierro, Oro, Diamante, Plata, Diamante
+science, 1, Cuál es el primer elemento de la tabla periódica, Helio, Oxígeno, Hidrógeno, Berilio, Hidrógeno
+science, 2, Cuál es la tercera ley de Newton, E = mc, Toda acción tiene una reacción igual y contraria, F = ma, Ley de inercia, Toda acción tiene una reacción igual y contraria
+geometry, 2, Si la suma de dos ángulos es igual a 180° dichos ángulos son, Complementarios, Suplementarios, Diagonales, Perpendiculares, Suplementarios
+geometry, 2, La recta que divide a un ángulo en dos ángulos iguales se le denomina, Bisectriz, Vertice, Ángulo, Recta, Bisectriz
+geometry, 1, El área de un circulo siempre será, PIxVolumen, PIxArea, PI(RadioxRadio), 3xPI, PI(RadioxRadio)
+biology, 1, Cuál es el rio más largo del mundo, Nilo, Amazonas, Mississippi, Magdalena, Amazonas
+biology, 1, Cuál es el país con más habitantes del mundo, Rusia, USA, Japon, China, China
+biology, 1, Cuál es el país con menos habitantes del mundo, Ciudad del Vaticano, Monaco, Canada, Noruega, Ciudad del Vaticano
+biology, 1, Cuál es el animal más grande de la tierra, Hipopótamo, Jirafa, Ballena Azul, Leopardo, Ballena Azul
+biology, 1, Cuántos huesos tiene el cuerpo humano, 100, 200, 306, 206, 206
+biology, 2, Cuál es el nombre del satelite natural de la tierra, Luna, Marte, Titan, Nasa, Luna
+biology, 2, Cuál es la luna mas grande de saturno, Luna, Marte, Titán, Tetis, Titán
+biology, 2, Cuál es el único mamífero que puede volar, Tucán, Murciélago, Grulla, Pingüino, Murciélago
+biology, 2, Quién ideó las leyes de la herencia genética, Heisenberg, Newton, Gregor Mendel, Iván Duque, Gregor Mendel
+biology, 2, Qué animal es más rápido, Halcón Peregrino, Puma, Tigre, León, Halcón Peregrino
+geometry, 1, Los triángulos que tienen dos de sus lados iguales se llaman, Escalenos, Isósceles, Rectos, Diagonales, Isósceles
+geometry, 1, Los ángulos que tienen menor abertura que un ángulo recto se llaman, Obtusos, Rectos, Agudos, Angulares, Agudos
+geometry, 2, Cómo se llama el lado más grande de un triángulo rectángulo, Cateto, Lado, Hipotenusa, Otro, Hipotenusa
+geometry, 2, Quién fue el autor de la obra llamada Los Elementos, Pitágoras, Euclides, Aristóteles, Otro, Euclides
+art, 1, Quién pintó la MonaLisa, Gustavo, Miguel Ángel, Fernando Botero, Da Vinci, Da Vinci
+art, 1, Quién pinto El grito, Da Vinci, Al Pacino, Débora Arango, Edvard Munch, Edvard Munch
+art, 1, En qué año Gabo ganó el nobel de literatura, 1882, 1982, 1664, 1890, 1982
+art, 2, De qué estilo arquitectónico es la catedral de Notre Dame, Románico, Barroco, Melo Caramelo, Gótico, Gótico
+art, 2, Quién pintó el cuadro La persistencia, Picasso, Miró, Salvador Dalí, Magritte, Salvador Dalí 
+art, 2, Cuál de estas NO es una de las 7 maravillas del mundo, Templo de Artemisa, Pirámide Giza, Faro de Alejandría, Partenon, Partenon
+art, 2, Quién pintó el Ché en la plaza Ché de la UN, Picasso, Dalí, Hermanos San Juan, Botero, Hermanos San Juan
+science, 1, Cuál es la partícula más pequeña que existe, Neutrón, Protón, Electrón, Ninguna, Ninguna
+science, 1, Cuál es la velocidad de la luz, 150.000 Km/h, 200.000 Km/h, 300.000 Km/s, 300.000 Km/h, 300.000 Km/s 
+science, 2, Quién descubrió la penicilina, Alexander Fleming, Heinsenberg, Mendel, Marie Curie, Alexander Fleming
+art, 1, Cuántas pinturas se conocen de Da Vinci, 15, 3, 35, 5, 15
+art, 1, En qué ciudad nació Fernando Botero, Bogotá, Cali, Medellín, ninguna, Medellín
+art, 2, En qué siglo nació Vicent Van Gogh, Siglo XIX, Siglo XX, Siglo XVIII, Siglo XV, Siglo XIX
+science, 2, Cuál es el valor aproximado de la gravedad en la tierra, 10.3 m/s^2, 1.5 m/s^2, 13 m/s^2, 9.8 m/s^2, 9.8 m/s^2
+science, 2, Cuántos años tiene un lustro, 3, 4, 5, 10, 5
+science, 2, Cuál es la edad del Universo, 13.800 millones de años, 1.800 millones de años, 800 millones de años, 10 años, 13.800 millones de años

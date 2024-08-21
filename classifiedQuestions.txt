@@ -1,0 +1,48 @@
+Art questions level 1: 
+level = 1, statement = Quién pintó la MonaLisa, A = Gustavo, B = Miguel Ángel, C = Fernando Botero, D = Da Vinci, answer = Da Vinci
+level = 1, statement = Quién pinto El grito, A = Da Vinci, B = Al Pacino, C = Débora Arango, D = Edvard Munch, answer = Edvard Munch
+level = 1, statement = En qué año Gabo ganó el nobel de literatura, A = 1882, B = 1982, C = 1664, D = 1890, answer = 1982
+level = 1, statement = Cuántas pinturas se conocen de Da Vinci, A = 15, B = 3, C = 35, D = 5, answer = 15
+level = 1, statement = En qué ciudad nació Fernando Botero, A = Bogotá, B = Cali, C = Medellín, D = ninguna, answer = Medellín
+Art questions level 2: 
+level = 2, statement = De qué estilo arquitectónico es la catedral de Notre Dame, A = Románico, B = Barroco, C = Melo Caramelo, D = Gótico, answer = Gótico
+level = 2, statement = Quién pintó el cuadro La persistencia, A = Picasso, B = Miró, C = Salvador Dalí, D = Magritte, answer = Salvador Dalí
+level = 2, statement = Cuál de estas NO es una de las 7 maravillas del mundo, A = Templo de Artemisa, B = Pirámide Giza, C = Faro de Alejandría, D = Partenon, answer = Partenon
+level = 2, statement = Quién pintó el Ché en la plaza Ché de la UN, A = Picasso, B = Dalí, C = Hermanos San Juan, D = Botero, answer = Hermanos San Juan
+level = 2, statement = En qué siglo nació Vicent Van Gogh, A = Siglo XIX, B = Siglo XX, C = Siglo XVIII, D = Siglo XV, answer = Siglo XIX
+Science questions level 1: 
+level = 1, statement = Cuál es el planeta más alejado del Sol, A = Tierra, B = Marte, C = Plutón, D = Neptuno, answer = Neptuno
+level = 1, statement = Cuál es el mineral más duro del planeta, A = Hierro, B = Oro, C = Diamante, D = Plata, answer = Diamante
+level = 1, statement = Cuál es el primer elemento de la tabla periódica, A = Helio, B = Oxígeno, C = Hidrógeno, D = Berilio, answer = Hidrógeno
+level = 1, statement = Cuál es la partícula más pequeña que existe, A = Neutrón, B = Protón, C = Electrón, D = Ninguna, answer = Ninguna
+level = 1, statement = Cuál es la velocidad de la luz, A = 150.000 Km/h, B = 200.000 Km/h, C = 300.000 Km/s, D = 300.000 Km/h, answer = 300.000 Km/s
+Science questions level 2: 
+level = 2, statement = Cuál es la tercera ley de Newton, A = E = mc, B = Toda acción tiene una reacción igual y contraria, C = F = ma, D = Ley de inercia, answer = Toda acción tiene una reacción igual y contraria
+level = 2, statement = Quién descubrió la penicilina, A = Alexander Fleming, B = Heinsenberg, C = Mendel, D = Marie Curie, answer = Alexander Fleming
+level = 2, statement = Cuál es el valor aproximado de la gravedad en la tierra, A = 10.3 m/s^2, B = 1.5 m/s^2, C = 13 m/s^2, D = 9.8 m/s^2, answer = 9.8 m/s^2
+level = 2, statement = Cuántos años tiene un lustro, A = 3, B = 4, C = 5, D = 10, answer = 5
+level = 2, statement = Cuál es la edad del Universo, A = 13.800 millones de años, B = 1.800 millones de años, C = 800 millones de años, D = 10 años, answer = 13.800 millones de años
+Geometry questions level 1: 
+level = 1, statement = La medida de una superficie se denomina, A = Área, B = Volumen, C = Extension, D = Forma, answer = Área
+level = 1, statement = Cuánto suman los ángulos de cualquier triángulo, A = 45°, B = 90°, C = 360°, D = 180°, answer = 180°
+level = 1, statement = El área de un circulo siempre será, A = PIxVolumen, B = PIxArea, C = PI(RadioxRadio), D = 3xPI, answer = PI(RadioxRadio)
+level = 1, statement = Los triángulos que tienen dos de sus lados iguales se llaman, A = Escalenos, B = Isósceles, C = Rectos, D = Diagonales, answer = Isósceles
+level = 1, statement = Los ángulos que tienen menor abertura que un ángulo recto se llaman, A = Obtusos, B = Rectos, C = Agudos, D = Angulares, answer = Agudos
+Geometry questions level 2: 
+level = 2, statement = A la línea formada por una recta y una curva se denomina, A = Quebrada, B = Ángulo, C = Mixta, D = Lado, answer = Mixta
+level = 2, statement = Si la suma de dos ángulos es igual a 180° dichos ángulos son, A = Complementarios, B = Suplementarios, C = Diagonales, D = Perpendiculares, answer = Suplementarios
+level = 2, statement = La recta que divide a un ángulo en dos ángulos iguales se le denomina, A = Bisectriz, B = Vertice, C = Ángulo, D = Recta, answer = Bisectriz
+level = 2, statement = Cómo se llama el lado más grande de un triángulo rectángulo, A = Cateto, B = Lado, C = Hipotenusa, D = Otro, answer = Hipotenusa
+level = 2, statement = Quién fue el autor de la obra llamada Los Elementos, A = Pitágoras, B = Euclides, C = Aristóteles, D = Otro, answer = Euclides
+Biology questions level 1: 
+level = 1, statement = Cuál es el rio más largo del mundo, A = Nilo, B = Amazonas, C = Mississippi, D = Magdalena, answer = Amazonas
+level = 1, statement = Cuál es el país con más habitantes del mundo, A = Rusia, B = USA, C = Japon, D = China, answer = China
+level = 1, statement = Cuál es el país con menos habitantes del mundo, A = Ciudad del Vaticano, B = Monaco, C = Canada, D = Noruega, answer = Ciudad del Vaticano
+level = 1, statement = Cuál es el animal más grande de la tierra, A = Hipopótamo, B = Jirafa, C = Ballena Azul, D = Leopardo, answer = Ballena Azul
+level = 1, statement = Cuántos huesos tiene el cuerpo humano, A = 100, B = 200, C = 306, D = 206, answer = 206
+Biology questions level 2: 
+level = 2, statement = Cuál es el nombre del satelite natural de la tierra, A = Luna, B = Marte, C = Titan, D = Nasa, answer = Luna
+level = 2, statement = Cuál es la luna mas grande de saturno, A = Luna, B = Marte, C = Titán, D = Tetis, answer = Titán
+level = 2, statement = Cuál es el único mamífero que puede volar, A = Tucán, B = Murciélago, C = Grulla, D = Pingüino, answer = Murciélago
+level = 2, statement = Quién ideó las leyes de la herencia genética, A = Heisenberg, B = Newton, C = Gregor Mendel, D = Iván Duque, answer = Gregor Mendel
+level = 2, statement = Qué animal es más rápido, A = Halcón Peregrino, B = Puma, C = Tigre, D = León, answer = Halcón Peregrino
